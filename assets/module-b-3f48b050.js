@@ -1,0 +1,1 @@
+import{_ as e}from"./module-a-6d5a01ec.js";import{a as o,c as r}from"./vendor-c82f2582.js";const c={};function t(n,a){return o(),r("h1",null," hello form page ")}const f=e(c,[["render",t]]);export{f as default};
